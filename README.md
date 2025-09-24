@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on 2048 game (need a better design)
 - 📫 How to reach me:
 -- VK: @keikuethas
--- Twitter: @HeartCube
--- Discord: keikuethas#3163
+-- Telegram: @keikuethas
 
 <!---
 Keikuethas/Keikuethas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
